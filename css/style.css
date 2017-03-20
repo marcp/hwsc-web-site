@@ -63,7 +63,7 @@ input {vertical-align: middle}
 -----------------------------------------------------------------------------*/
 .sl {
 	float: left;
-	width: 250px;
+	width: 172px;
 	margin-left: -100%;
 	position: relative;
 	padding-left:40px;
@@ -229,12 +229,12 @@ a:active {
 
 /* Ordered Lists
 -----------------------------------------------------------------------------*/
-ol {  
+ol {
 margin:0;
 padding-left:20px;
 }
 
-ul {  
+ul {
 margin:0;
 padding-left:17px;
 }
